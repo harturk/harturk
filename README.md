@@ -1,74 +1,73 @@
-# I'm Hártur Kunzler Mainardi 👋
+<h1 align="center">👋 Hi, I'm Hártur Kunzler Mainardi</h1>
 
-👨‍💻 **About Me**
-
-Full Stack Engineer with 4+ years of experience building **scalable, cloud-native systems** and **data-driven applications**.  
-I’ve delivered solutions that support **multi-billion-dollar supply chain decisions**, reduced infrastructure footprint, boosted performance, and enabled **self-service analytics** that increased adoption across departments.
-
-Beyond coding, I work directly with **executives and managers at world-leading supply chain events in Brazil** (a global reference), abstracting complex business challenges into **scalable, reliable, and high-impact systems**.  
-Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each architecture.
-
-I also actively participate in product inceptions and discovery workshops (Lean Inception) — helping define product vision, map user journeys, prioritize MVPs, and bridge the gap between business, design, and engineering from the very first iteration.
-Pragmatic and impact-driven, I’m tool-agnostic and choose what best fits each architecture.
+<p align="center">
+  <strong>Full Stack & Data Engineer</strong> · Building scalable, cloud-native, and data-driven systems  
+  <br/>
+  Turning complex supply chain challenges into reliable, high-impact software.
+</p>
 
 ---
 
-### 📌 **Current Role — Software & Data Engineer @ VE3**
+### 👨‍💻 About Me
 
-_(B2B Supply Chain & Data Intelligence Platform, Aug 2021 – Present)_
+I'm a **Full Stack & Data Engineer** with 4+ years of experience creating **scalable, cloud-native systems** and **data-driven applications**.  
+I’ve delivered solutions that power **multi-billion-dollar supply chain decisions**, reduce infrastructure costs, and make analytics accessible across organizations.
 
--   📊 **Developed a weekly/daily DRP/MRP dashboard** (Python + Polars) that impressed stakeholders and helped secure a **multi-billion-dollar annual revenue client**.
--   🧠 **Refactored the Sales Forecasting Engine (Python + Spark)**:
-    -   Simplified workflows for **25+ models** and hundreds of thousands of daily records
-    -   Improved performance, maintainability, and logging
-    -   Reduced technical debt across the pipeline
--   ⚙️ **Designed and deployed the Sell-Out MPS microservice**:
-    -   Go REST API orchestration
-    -   Python (AWS EC2 + S3, Polars) for high-volume numerical processing
-    -   React dashboards with interactive grids and charts
--   💰 **Redesigned the pricing hierarchy logic**, replacing a heavy fixed-level system:
-    -   Reduced infrastructure footprint by **up to 10% per client environment**
-    -   Simplified end-user experience and configuration
-    -   Enabled flexible variable-based pricing across all hierarchy levels — from global to SKU
--   📈 **Implemented an embedded BI solution**, allowing users to run analytics and build dashboards **directly inside the platform**, eliminating manual exports and third-party BI tools.
--   🚀 **Optimized SQL execution plans and ERDs**, boosting dashboard performance by **90%** and cutting query load by **50x**.
--   🔍 **Built an observability framework** (Prometheus, Grafana, Bash), reducing downtime with faster incident detection.
--   🌍 Delivered solutions adopted by **market leaders across industries** (food, consumer goods, electronics, manufacturing), supporting **global-scale operational and strategic decisions**.
+I don’t just code — I also **participate in product inceptions and discovery workshops (Lean Inception)**, helping define product vision, map user journeys, and align technical feasibility with business value from the very start.
+
+Pragmatic, impact-driven, and tool-agnostic — I always choose what best fits the architecture and the problem at hand.
 
 ---
 
-### 🧠 **Tech Stack & Tools**
+### 🚀 What I’ve Been Working On
+
+**Software & Data Engineer @ VE3 (Aug 2021 – Present)**  
+_B2B Supply Chain & Data Intelligence Platform_
+
+-   📊 **Developed DRP/MRP dashboards** (Python + Polars) that helped secure a multi-billion BRL client.
+-   🧠 **Refactored the Sales Forecasting Engine** (Python + Spark): simplified 25+ models and improved performance.
+-   ⚙️ **Built the Sell-Out MPS microservice** (Go + AWS + Polars): scalable orchestration for real-time forecasting.
+-   💰 **Redesigned pricing hierarchy logic**, reducing infra footprint by up to 10% per client.
+-   📈 **Implemented an embedded BI module**, enabling in-platform analytics without third-party tools.
+-   🚀 **Optimized SQL and ERDs**, boosting dashboard performance by 90% and cutting query load by 50×.
+-   🔍 **Created an observability framework** (Prometheus + Grafana), cutting detection time during incidents.
+
+Solutions I built are now used by **industry leaders in food, consumer goods, electronics, and manufacturing**, driving both operational and strategic decisions.
+
+---
+
+### 🧠 Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-#### 💻 **Languages & Frameworks**
+#### 💻 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,bash,php" /><br>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,php,bash" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi" />
 </p>
 
-#### ☁️ **DevOps, Infra & Cloud**
+#### ☁️ DevOps, Infra & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx,grafana,cloudflare,prometheus" />
 </p>
 
-#### 🗃️ **Databases & Tooling**
+#### 🗃️ Databases & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,npm,webpack,git,postman" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,npm,webpack,postman" />
 </p>
 
 </td>
 <td valign="top" width="50%">
 
-#### 📈 **GitHub Stats**
+#### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harturk&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 </p>
 
 </td>
@@ -77,7 +76,7 @@ _(B2B Supply Chain & Data Intelligence Platform, Aug 2021 – Present)_
 
 ---
 
-### 🌐 **Languages I Speak**
+### 🌍 Languages I Speak
 
 -   🇧🇷 Portuguese (native)
 -   🇺🇸 English (fluent)
@@ -85,7 +84,10 @@ _(B2B Supply Chain & Data Intelligence Platform, Aug 2021 – Present)_
 
 ---
 
-### 📬 **Let’s Connect**
+### 📬 Let’s Connect
 
--   📫 **Email:** [hartur.kunzler@gmail.com](mailto:hartur.kunzler@gmail.com)
--   💼 **LinkedIn:** [linkedin.com/in/hartur-mainardi](https://linkedin.com/in/hartur-mainardi)
+<p align="center">
+  <a href="mailto:hartur.kunzler@gmail.com"><img src="https://img.shields.io/badge/Email-hartur.kunzler%40gmail.com-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/hartur-mainardi"><img src="https://img.shields.io/badge/LinkedIn-Hártur%20Mainardi-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://github.com/harturk"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" /></a>
+</p>
