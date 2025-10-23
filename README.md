@@ -45,7 +45,7 @@ Solutions I built are now used by **industry leaders in food, consumer goods, el
 #### 💻 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,php,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,php,bash,java,c" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,fastapi" />
 </p>
 
@@ -83,6 +83,26 @@ Solutions I built are now used by **industry leaders in food, consumer goods, el
 -   🇪🇸 Spanish (beginner)
 
 ---
+
+### 🧪 Research & Academic Projects
+
+Besides GitHub, I also maintain several **academic and experimental POC (Proof of Concept) projects** on  
+➡️ [**GitLab — hartur.mainardi**](https://tools.ages.pucrs.br/hartur.mainardi)
+
+<p align="center">
+  <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-api"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Decola - API</a>
+  <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-frontend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Decola - Frontend</a>
+</p>
+
+<p align="center">
+  <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/backend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />WeConecta - API</a>
+  <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/frontend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />WeConecta - Frontend</a>
+</p>
+
+<p align="center">
+  <a href="https://tools.ages.pucrs.br/vitimas-de-crime/web"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Vitimas de Crime - WEB</a>
+  <a href="https://tools.ages.pucrs.br/vitimas-de-crime/app"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Vitimas de Crime - Mobile</a>
+</p>
 
 ### 📬 Let’s Connect
 
