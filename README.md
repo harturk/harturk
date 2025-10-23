@@ -90,18 +90,23 @@ Besides GitHub, I also maintain several **academic and experimental POC (Proof o
 ➡️ [**GitLab — hartur.mainardi**](https://tools.ages.pucrs.br/hartur.mainardi)
 
 <p align="center">
-  <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-api"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Decola - API</a>
-  <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-frontend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Decola - Frontend</a>
+  <a href="https://gitlab.com/hartur.mainardi">
+    <img src="https://img.shields.io/badge/GitLab-POC%20%7C%20Academic%20Projects-orange?logo=gitlab&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/backend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />WeConecta - API</a>
-  <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/frontend"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />WeConecta - Frontend</a>
-</p>
+  <strong>Featured Academic & Proof-of-Concept Projects</strong><br/>
 
-<p align="center">
-  <a href="https://tools.ages.pucrs.br/vitimas-de-crime/web"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Vitimas de Crime - WEB</a>
-  <a href="https://tools.ages.pucrs.br/vitimas-de-crime/app"><img src="https://img.shields.io/badge/GitHub-harturk-black?logo=github&style=for-the-badge" />Vitimas de Crime - Mobile</a>
+🕵️‍♂️ <a href="https://tools.ages.pucrs.br/vitimas-de-crime/web">Vitimas de Crime — Web</a> ·
+📱 <a href="https://tools.ages.pucrs.br/vitimas-de-crime/app">Mobile</a><br/>
+
+🔗 <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/backend">WeConecta — API</a> ·
+💻 <a href="https://tools.ages.pucrs.br/weconecta-plataforma-digital-para-question-rios-de-sa-de/frontend">Frontend</a><br/>
+
+🚀 <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-api">Decola — API</a> ·
+🌐 <a href="https://tools.ages.pucrs.br/plataforma-onboarding-para-novos-colaboradores/decola-frontend">Frontend</a>
+
 </p>
 
 ### 📬 Let’s Connect
